@@ -1,0 +1,31 @@
+{
+    "01M539": {
+        "street_address": "111 Columbia Street",
+        "city": "Manhattan",
+        "scores": {
+              "math": 657,
+              "reading": 601,
+              "writing": 601
+        }
+  },
+    "02S687": {
+        "street_address": "256 Costa Nova Street",
+        "city": "Porto",
+        "scores": {
+            "math": 757,
+            "reading": 801,
+            "writing": 601
+        }
+    },
+
+    "09X897": {
+        "street_address": "12 Kutsunoi Street",
+        "city": "Kyoto",
+        "scores": {
+            "math": 900,
+            "reading": 401,
+            "writing": 701
+        }
+    }
+
+}
