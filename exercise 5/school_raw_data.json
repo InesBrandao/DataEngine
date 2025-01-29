@@ -1,0 +1,8 @@
+{
+    "street_address": "111 Columbia Street",
+    "city": "Manhattan",
+    "scores": {
+        "math": 657,
+        "reading": 601
+    }
+}
