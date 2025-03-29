@@ -25,7 +25,7 @@ LIMIT 5;
 */
 /*--------------------------------------------*/
 /*let's use a LEFT JOIN with users and posts to see how many posts each user has made '*/
-/*
+
 SELECT users.username, COUNT(*) AS 'num_posts'
 FROM users
 LEFT JOIN posts
@@ -33,30 +33,30 @@ ON users.id = posts.user_id
 WHERE users.username IS NOT NULL
 GROUP BY users.id
 ORDER BY 2 DESC;
-*/
+
 /*--------------------------------------------*/
 
-/*
+
 SELECT *
 FROM posts
 INNER JOIN users
 ON users.id = posts.user_id
 WHERE users.username IS NOT NULL;
-*/
+
 /*--------------------------------------------*/
 
 /*stack the posts2 dataset over the posts dataset using the UNION clause*/
-/*
+
 SELECT * FROM posts
 UNION 
 SELECT * FROM posts2;
-*/
+
  /*--------------------------------------------*/
 
 /*lets find out which subreddits have the most popular posts*/
 
 /*use temporary table called popular_posts to better organize our query*/
-/*
+
 WITH popular_posts AS (
   SELECT * FROM posts
   WHERE score >= 5000
@@ -66,7 +66,7 @@ FROM subreddits
 INNER JOIN popular_posts
 ON subreddits.id = popular_posts.subreddit_id
 ORDER BY 3 DESC;
-*/
+
 
 /*now, let's find out the highest scoring post for each subreddit'*/
 /*
