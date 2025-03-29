@@ -1,0 +1,90 @@
+/*query to count how many different subreddits there are*/
+SELECT DISTINCT COUNT(*) AS 'subreddit_count'
+FROM subreddits;
+/*subreddit_count equals 20*/
+/*--------------------------------------------*/
+SELECT MAX(score) AS 'max_user_score'
+FROM users;
+/*max_user_score equals 300895*/
+/*--------------------------------------------*/
+SELECT MAX(score) AS 'max_posts_score'
+FROM posts;
+/*max_posts_score equals 149176*/
+/*--------------------------------------------*/
+SELECT subscriber_count AS 'top_5_subreddits'
+FROM subreddits
+GROUP BY name
+ORDER BY subscriber_count DESC
+LIMIT 5;
+/*top_5_subreddits equals 
+28837356
+27061546
+25653577
+25239687
+24543061
+*/
+/*--------------------------------------------*/
+/*let's use a LEFT JOIN with users and posts to see how many posts each user has made '*/
+/*
+SELECT users.username, COUNT(*) AS 'num_posts'
+FROM users
+LEFT JOIN posts
+ON users.id = posts.user_id
+WHERE users.username IS NOT NULL
+GROUP BY users.id
+ORDER BY 2 DESC;
+*/
+/*--------------------------------------------*/
+
+/*
+SELECT *
+FROM posts
+INNER JOIN users
+ON users.id = posts.user_id
+WHERE users.username IS NOT NULL;
+*/
+/*--------------------------------------------*/
+
+/*stack the posts2 dataset over the posts dataset using the UNION clause*/
+/*
+SELECT * FROM posts
+UNION 
+SELECT * FROM posts2;
+*/
+ /*--------------------------------------------*/
+
+/*lets find out which subreddits have the most popular posts*/
+
+/*use temporary table called popular_posts to better organize our query*/
+/*
+WITH popular_posts AS (
+  SELECT * FROM posts
+  WHERE score >= 5000
+)
+SELECT subreddits.name, popular_posts.title, popular_posts.score
+FROM subreddits
+INNER JOIN popular_posts
+ON subreddits.id = popular_posts.subreddit_id
+ORDER BY 3 DESC;
+*/
+
+/*now, let's find out the highest scoring post for each subreddit'*/
+/*
+SELECT posts.title AS 'title', subreddits.name AS 'name', MAX(posts.score) AS 'highest_score'
+FROM posts
+INNER JOIN subreddits
+ON posts.subreddit_id = subreddits.id
+GROUP BY subreddits.id
+ORDER BY 3 DESC;
+*/
+
+/* write a query that calculates the average score of all the posts for each subreddit*/
+
+SELECT ROUND(AVG(posts.score), 2) AS 'average posts score', posts.title AS 'title of post', subreddits.name AS 'subreddits_name'
+FROM posts
+INNER JOIN subreddits
+ON posts.subreddit_id = subreddits.id
+GROUP BY subreddits.name
+ORDER BY 1 DESC;
+
+
