@@ -1,0 +1,717 @@
+20
+300895
+149176
+28837356
+27061546
+25653577
+25239687
+24543061
+nwealthall1t|7
+lbenedetti2o|6
+dsheaj|6
+hassandri2d|5
+jotaki|5
+jreamesw|5
+ldeshonq|5
+dcarette2p|4
+cambrozewicz2k|4
+laskin2g|4
+cbearfoot25|4
+dgroucock1s|4
+soloughane1h|4
+khammer1d|4
+edreher11|4
+rbyrth2r|3
+hcodlin2l|3
+bmckinless21|3
+ctootin1z|3
+rbennett1j|3
+mrupel1g|3
+rbiagioni1a|3
+mamery19|3
+gbeddow14|3
+lbarnicotty|3
+sclowneye|3
+bslora7|3
+owodham5|3
+lauracle|3
+cnoen2m|2
+junuuki89|2
+sciementini2h|2
+apershouse2e|2
+rdoggett23|2
+lvlies20|2
+ctills1w|2
+kbrosini1r|2
+vverecker1p|2
+crogliero1l|2
+ckubec1f|2
+rneate1e|2
+calbone1c|2
+tessex1b|2
+nconneely15|2
+bschaferz|2
+gsarfasl|2
+clowingsi|2
+ltizardh|2
+kabrahmf|2
+yakovkagan|2
+coler1|2
+ecatchpole2q|1
+esapwell2n|1
+jmuzzollo2j|1
+qdewberry2f|1
+hscorah2c|1
+yleving2a|1
+tberceros29|1
+mdodsworth28|1
+ishakshaft27|1
+amarmion26|1
+jlegerton1y|1
+lcornewell1x|1
+etill1v|1
+adorkins1u|1
+cbridell1q|1
+awearne1o|1
+pspriddle1n|1
+mmackomb1m|1
+jdurrant1k|1
+grupert1i|1
+kconkling18|1
+ltukely16|1
+penguinDev|1
+aovenell12|1
+cdymock10|1
+deastridgex|1
+menevoldsenv|1
+aepiletu|1
+aheggt|1
+lfitzgibbonr|1
+choyp|1
+pbrunio|1
+dpenken|1
+ehalmsm|1
+ablazik|1
+jzimekg|1
+tfogtc|1
+wbentinckb|1
+elandera|1
+mmcmorland9|1
+bgreener8|1
+ttroctor6|1
+kassablanca|1
+sonnynomnom|1
+178|Today I learned the inventor of the electronic television was disappointed in his invention, until he watched Neil Armstrong walking on the moon through it|1|9|4613|2016-04-16|1|sonnynomnom|mbosence0@ycombinator.com|2008-05-14|185713
+23|Movie filmed entirely in one take took 20 takes to get right|2|18|16492|2016-12-04|2|coler1|kmonkhouse1@indiatimes.com|2011-12-11|136965
+123|I edited myself into a movie scene|2|3|43894|2015-03-01|2|coler1|kmonkhouse1@indiatimes.com|2011-12-11|136965
+15|Prevengers becomes highest grossing film of all time|3|18|25627|2019-08-31|3|lauracle|rkilfether2@independent.co.uk|2011-05-14|277721
+65|Single player offline games are valuable during an apocalypse|3|10|28714|2018-07-22|3|lauracle|rkilfether2@independent.co.uk|2011-05-14|277721
+73|Codecademy releases their new database courses|3|1|133728|2012-04-28|3|lauracle|rkilfether2@independent.co.uk|2011-05-14|277721
+80|I am a self taught developer who likes to teach others programming. Ask me anything!|5|11|44283|2016-07-16|5|yakovkagan|treggio4@sciencedirect.com|2009-06-06|242023
+156|Codecademy programming tutorial videos|5|8|85347|2013-11-06|5|yakovkagan|treggio4@sciencedirect.com|2009-06-06|242023
+35|Photo of the first supercomputer|6|5|22375|2017-04-03|6|owodham5|lshortland5@fda.gov|2016-07-15|107823
+152|VR technology lets you program on a virtual computer, without having a real computer|6|15|17001|2019-10-26|6|owodham5|lshortland5@fda.gov|2016-07-15|107823
+188|How does a computer compile and run a program?|6|20|24877|2017-08-03|6|owodham5|lshortland5@fda.gov|2016-07-15|107823
+8|I am Gill Bates, founder of Macrohard. Ask me Anything.|7|11|96731|2019-04-28|7|ttroctor6|tblowfield6@ucoz.ru|2007-06-23|111915
+135|Things I wish I knew when I was starting out as a web developer|8|1|2915|2018-07-23|8|bslora7|cdolle7@parallels.com|2010-02-10|292712
+142|Spicy miso ramen with pork|8|19|43655|2010-07-31|8|bslora7|cdolle7@parallels.com|2010-02-10|292712
+163|Honeydew melon ice cream|8|19|34530|2018-12-08|8|bslora7|cdolle7@parallels.com|2010-02-10|292712
+53|Today I learned some farmers switched to raising ducks instead of chickens, because they float during floods|9|9|36647|2012-11-27|9|bgreener8|spearcey8@narod.ru|2008-06-08|212576
+90|Parked my car between two identical cars|10|14|29164|2015-10-04|10|mmcmorland9|pjersch9@wunderground.com|2013-06-12|166508
+83|Computer uses data of best selling songs to try to create the most popular song|12|7|29600|2013-05-12|12|wbentinckb|isighartb@unblog.fr|2010-12-17|238525
+11|The night before a day off is more satisfying than the actual day|15|10|25763|2014-08-06|15|sclowneye|bgilmoure@webeden.co.uk|2013-06-17|282728
+30|Walking Simulator is so immersive!|15|4|42246|2016-10-16|15|sclowneye|bgilmoure@webeden.co.uk|2013-06-17|282728
+50|Pizza where each of the 8 slices has a different topping|15|19|25884|2014-04-10|15|sclowneye|bgilmoure@webeden.co.uk|2013-06-17|282728
+149|Days where everything goes smoothly are less memorable|16|10|43496|2013-04-04|16|kabrahmf|tbarrittf@merriam-webster.com|2008-08-11|176189
+191|Fertilizer from 2015 linked to causing insects to grow abnormally large|16|2|29720|2020-03-24|16|kabrahmf|tbarrittf@merriam-webster.com|2008-08-11|176189
+9|Someone reverse engineered Super Mario... with Minecraft command blocks.|17|1|9196|2015-12-21|17|jzimekg|jcorcutg@icio.us|2013-05-14|106783
+56|If you were stranded on an island, what 5 items would you bring with you?|18|12|22893|2017-01-26|18|ltizardh|hjigginsh@ftc.gov|2015-04-05|133655
+102|Movie theater chairs created which release scents for a more immersive experience|18|15|6998|2016-08-03|18|ltizardh|hjigginsh@ftc.gov|2015-04-05|133655
+19|Sunset from space|19|5|30835|2017-08-22|19|clowingsi|mleipoldti@list-manage.com|2011-09-27|263633
+184|Puppy falling asleep after playing outside all day|19|17|44269|2013-03-28|19|clowingsi|mleipoldti@list-manage.com|2011-09-27|263633
+125|Incredible soccer goal|20|16|17592|2010-08-18|20|dsheaj|alipyeatj@ow.ly|2008-10-07|169434
+144|Kid is gifted a new puppy for his birthday|20|17|22235|2011-09-27|20|dsheaj|alipyeatj@ow.ly|2008-10-07|169434
+151|How do taxes work?|20|20|17917|2018-07-28|20|dsheaj|alipyeatj@ow.ly|2008-10-07|169434
+159|Photo of rocket launching|20|13|33951|2013-12-24|20|dsheaj|alipyeatj@ow.ly|2008-10-07|169434
+165|Dog photobombs wedding photo|20|5|10303|2013-10-31|20|dsheaj|alipyeatj@ow.ly|2008-10-07|169434
+194|Meteor shower lighting up the night sky|20|13|31616|2017-08-02|20|dsheaj|alipyeatj@ow.ly|2008-10-07|169434
+84|Youtubers help to fund planting of 10 million trees|21|6|28046|2016-02-01|21|ablazik|aarpink@cnn.com|2015-01-18|273215
+40|VR Chess, but your hand grows larger every move|22|4|27706|2016-03-30|22|gsarfasl|rbellchamberl@nyu.edu|2011-08-12|263610
+170|Hockey goalie makes incredible behind the back block|22|16|32072|2015-02-27|22|gsarfasl|rbellchamberl@nyu.edu|2011-08-12|263610
+82|Why do bad scents linger longer than good scents?|23|20|2487|2018-09-01|23|ehalmsm|bolsenm@seattletimes.com|2007-12-11|239528
+162|Rechargeable battery that charges to 100% in 10 minutes|25|15|22460|2014-08-31|25|pbrunio|floggieo@exblog.jp|2010-07-21|136263
+4|Scientists develop waterproof shoes|27|15|38476|2012-12-29|27|ldeshonq|bbazogeq@cbslocal.com|2006-12-19|167811
+34|Rate my gaming rig|27|4|43809|2017-08-07|27|ldeshonq|bbazogeq@cbslocal.com|2006-12-19|167811
+47|Group of people in dinosaur costumes for Halloween|27|3|17613|2018-07-19|27|ldeshonq|bbazogeq@cbslocal.com|2006-12-19|167811
+176|Tech CEO donates computers to schools|27|6|21937|2016-01-18|27|ldeshonq|bbazogeq@cbslocal.com|2006-12-19|167811
+177|How do NASA engineers communicate with space satellites billions of kilometers away from Earth?|27|20|31570|2019-01-29|27|ldeshonq|bbazogeq@cbslocal.com|2006-12-19|167811
+98|Dog comforts its nervous friend at the vet|28|17|33556|2011-01-30|28|lfitzgibbonr|rboamr@qq.com|2009-01-20|292293
+160|Dubstep music can protect against bug bites|30|2|12344|2013-03-25|30|aheggt|vliddyt@squidoo.com|2009-12-20|256515
+99|Today I learned Kogu from Dragoon Ball Z is an ambassador for the 2020 Tokyo Olympics|31|9|25586|2020-01-28|31|aepiletu|xklaessonu@feedburner.com|2010-04-11|206618
+24|Funny glitch during a cutscene|33|4|28983|2010-09-24|33|jreamesw|gonraetw@census.gov|2009-02-15|223959
+109|History of programming|33|8|5792|2011-04-02|33|jreamesw|gonraetw@census.gov|2009-02-15|223959
+174|Astronauts watching Star Trek in space|33|13|25841|2015-05-08|33|jreamesw|gonraetw@census.gov|2009-02-15|223959
+185|Car that automatically parallel parks|33|15|34407|2013-06-10|33|jreamesw|gonraetw@census.gov|2009-02-15|223959
+189|What kind of bear is best?|33|12|10408|2010-08-29|33|jreamesw|gonraetw@census.gov|2009-02-15|223959
+58|If you could have any superpower, what would it be?|35|12|12001|2011-06-20|35|lbarnicotty|fmitroshinovy@seattletimes.com|2009-06-24|137365
+113|Playlist for programmers|35|7|49129|2010-04-02|35|lbarnicotty|fmitroshinovy@seattletimes.com|2009-06-24|137365
+150|Made ice cream that looks like spaghetti using vanilla ice cream and raspberry sauce|35|19|24826|2012-03-11|35|lbarnicotty|fmitroshinovy@seattletimes.com|2009-06-24|137365
+138|Golf balls at this mini golf course over the ocean are biodegradable and edible by fish|36|14|33651|2019-11-18|36|bschaferz|phartoppz@unc.edu|2014-09-07|143826
+146|Colorized photo of my great-great-grandparents|36|5|2763|2020-06-03|36|bschaferz|phartoppz@unc.edu|2014-09-07|143826
+63|How does the sun warm us when it's so far away?|37|20|33869|2015-04-14|37|cdymock10|hpelchat10@flavors.me|2010-08-17|131637
+41|What food would you eat everyday?|38|12|3386|2014-11-08|38|edreher11|irobins11@symantec.com|2011-12-08|121757
+139|My coworker's last name is Null|38|1|27696|2012-12-17|38|edreher11|irobins11@symantec.com|2011-12-08|121757
+145|Your alarm tone is your opening theme song for each episode|38|10|22608|2017-05-10|38|edreher11|irobins11@symantec.com|2011-12-08|121757
+198|New vehicle can convert food waste into fuel|38|15|42890|2013-06-22|38|edreher11|irobins11@symantec.com|2011-12-08|121757
+10|What is the most exciting personal project you've worked on?|40|1|70951|2019-12-09|40|penguinDev|studyhard.swe.2020@gmail.com|2014-05-24|112328
+52|Greatest no-look pass in basketball history|41|16|23230|2019-02-10|41|gbeddow14|jthunders14@ftc.gov|2009-12-06|162182
+133|Basketball player hits full court shot|41|16|4571|2015-04-18|41|gbeddow14|jthunders14@ftc.gov|2009-12-06|162182
+136|Doggo tippy taps when owner comes home|41|8|36695|2014-09-21|41|gbeddow14|jthunders14@ftc.gov|2009-12-06|162182
+74|Today I learned apes can learn sign language, but aren't able to ask questions|42|9|21744|2017-05-03|42|nconneely15|vosborn15@comsenz.com|2011-07-10|208629
+94|Why are house roofs slanted?|42|20|42425|2017-10-29|42|nconneely15|vosborn15@comsenz.com|2011-07-10|208629
+33|Last Fantasy XXV is best entry in the franchise|43|4|11979|2017-05-04|43|ltukely16|mfavey16@google.nl|2007-04-30|175202
+166|What is the best purchase you ever made?|45|12|4727|2017-08-27|45|kconkling18|cfrantz18@washingtonpost.com|2013-02-20|215567
+20|Weightlifter wins the gold|46|16|31646|2012-09-09|46|mamery19|amalby19@independent.co.uk|2009-05-22|261127
+131|Today I learned a perfectly preserved dinosaur tail was found, which was full of feathers|46|9|17114|2016-12-18|46|mamery19|amalby19@independent.co.uk|2009-05-22|261127
+190|New fertilizer created that doubles size of crops|46|2|47844|2015-05-30|46|mamery19|amalby19@independent.co.uk|2009-05-22|261127
+31|Professor holds class in a VR game|47|4|571|2018-07-26|47|rbiagioni1a|cbonhan1a@flavors.me|2013-01-21|192974
+69|Even if someone could read minds, they might not be able to decode your thoughts|47|10|29192|2014-02-24|47|rbiagioni1a|cbonhan1a@flavors.me|2013-01-21|192974
+171|Golfer hits hole-in-one where the ball skims over water|47|16|24447|2014-10-10|47|rbiagioni1a|cbonhan1a@flavors.me|2013-01-21|192974
+38|Cat dressed as a terrifying shark|48|3|3326|2016-09-28|48|tessex1b|xquinlan1b@myspace.com|2008-08-30|129352
+108|My largest Minecraft map using 3000x3000 blocks. Took 12 months to complete.|48|4|28384|2019-04-02|48|tessex1b|xquinlan1b@myspace.com|2008-08-30|129352
+96|Finished building my own telescope|49|13|2455|2020-01-09|49|calbone1c|miashvili1c@sphinn.com|2015-12-16|294442
+148|Panoramic picture of the Grand Canyon|49|5|45984|2017-02-14|49|calbone1c|miashvili1c@sphinn.com|2015-12-16|294442
+13|In an Asian country, bowls are repaired by filling the cracks with gold|50|14|44421|2014-01-27|50|khammer1d|rtuckie1d@miitbeian.gov.cn|2009-08-17|296222
+42|Met a stranger who looks just like me at a restaurant|50|14|40567|2018-01-03|50|khammer1d|rtuckie1d@miitbeian.gov.cn|2009-08-17|296222
+130|It's perfectly okay to only code at work|50|1|11076|2011-03-20|50|khammer1d|rtuckie1d@miitbeian.gov.cn|2009-08-17|296222
+196|How do databases store millions of entries and access them so quickly?|50|20|45790|2012-02-04|50|khammer1d|rtuckie1d@miitbeian.gov.cn|2009-08-17|296222
+6|As a kid, you're also watching your parents grow up|51|10|30249|2015-07-22|51|rneate1e|sseville1e@yandex.ru|2011-08-12|116273
+75|Growing up you get more joy seeing others open presents than you do opening your own|51|10|18164|2012-01-20|51|rneate1e|sseville1e@yandex.ru|2011-08-12|116273
+17|Behind the scenes of how a jump scene for Mission Possible was shot|52|18|20933|2011-05-16|52|ckubec1f|kwodeland1f@answers.com|2010-12-03|162609
+64|I'm developing a game where you are a rock|52|4|27602|2014-01-12|52|ckubec1f|kwodeland1f@answers.com|2010-12-03|162609
+72|Paintings are like trading cards for rich people|53|10|25405|2015-02-27|53|mrupel1g|ccotterell1g@phpbb.com|2013-12-22|146611
+143|Hockey player gives game winning hockey stick to fan|53|16|7408|2014-07-31|53|mrupel1g|ccotterell1g@phpbb.com|2013-12-22|146611
+168|Today I learned there is a statue of George Washington in London|53|9|33642|2015-01-22|53|mrupel1g|ccotterell1g@phpbb.com|2013-12-22|146611
+16|Today I learned Perry, a parrot, alerted its owner that their toddler was choking, saving the girl's life|54|9|31943|2016-05-26|54|soloughane1h|jmucklo1h@parallels.com|2011-02-20|175391
+29|Mysterious shadow shaped like person on moon turns out to be a smudge on the telescope lens|54|2|10452|2017-01-15|54|soloughane1h|jmucklo1h@parallels.com|2011-02-20|175391
+85|Award winning actor raises $200 million to fight climate change|54|6|6832|2013-11-24|54|soloughane1h|jmucklo1h@parallels.com|2011-02-20|175391
+172|AI recreates 3D models from paintings|54|15|13585|2014-02-25|54|soloughane1h|jmucklo1h@parallels.com|2011-02-20|175391
+88|Why it's okay to have imposter syndrome|55|1|22396|2013-05-12|55|grupert1i|rplaid1i@google.es|2009-10-13|263710
+22|I am a freelance Web Developer. AMA!|56|11|36051|2017-12-14|56|rbennett1j|asimnell1j@addtoany.com|2006-12-21|143524
+86|SQLite tutorial videos|56|8|29608|2017-04-03|56|rbennett1j|asimnell1j@addtoany.com|2006-12-21|143524
+92|I am the world's most average person. Ask me anything.|56|11|9792|2012-05-25|56|rbennett1j|asimnell1j@addtoany.com|2006-12-21|143524
+161|Cheeseburger with curly fries|57|19|12929|2013-11-15|57|jdurrant1k|cleavey1k@cargocollective.com|2011-12-04|236238
+48|Funny license plate number|58|3|560|2019-08-18|58|crogliero1l|btrenear1l@bravesites.com|2018-07-26|209589
+175|How does wifi work?|58|20|19818|2019-10-31|58|crogliero1l|btrenear1l@bravesites.com|2018-07-26|209589
+28|How do you feel about pineapple on pizza?|59|12|11231|2018-05-12|59|mmackomb1m|fradolf1m@spotify.com|2017-09-25|265226
+70|Made a sweater for my pet snake|61|17|11867|2020-03-28|61|awearne1o|detty1o@surveymonkey.com|2012-08-26|119410
+68|Quarter Life 3 being developed by Pipe Corporation|62|4|44695|2019-06-23|62|vverecker1p|ccurwen1p@mail.ru|2009-05-19|271613
+193|Self-driving flying electric cars in mass production|62|6|43035|2020-01-14|62|vverecker1p|ccurwen1p@mail.ru|2009-05-19|271613
+164|There's another ball inside this bowling ball|63|14|660|2015-03-08|63|cbridell1q|eeyam1q@infoseek.co.jp|2014-07-14|203144
+7|Created some entertaining Christmas cards|64|3|18297|2012-01-15|64|kbrosini1r|jquested1r@army.mil|2007-04-08|139040
+12|Today I learned that Romans created tombs for their dogs and gave them epitaphs|64|9|34154|2020-06-16|64|kbrosini1r|jquested1r@army.mil|2007-04-08|139040
+66|Today I learned Reanu Keeves takes the subway|65|9|45080|2010-05-16|65|dgroucock1s|asavage1s@gmpg.org|2007-01-02|181202
+78|Low-cost laptops developed for students in several poorer countries|65|15|4264|2017-08-09|65|dgroucock1s|asavage1s@gmpg.org|2007-01-02|181202
+91|Fried chicken sandwich|65|19|30406|2015-08-12|65|dgroucock1s|asavage1s@gmpg.org|2007-01-02|181202
+103|SpaceZ has a successful launch for its Eagle Light rocket!|65|13|28023|2016-02-15|65|dgroucock1s|asavage1s@gmpg.org|2007-01-02|181202
+27|Another Spider-Person movie reboot in the works|66|18|13168|2020-01-29|66|nwealthall1t|soblein1t@tripod.com|2011-02-08|231712
+97|More companies adopt 4 day work week|66|6|5791|2012-01-02|66|nwealthall1t|soblein1t@tripod.com|2011-02-08|231712
+104|Today I learned Beethoven used bone conduction to hear his piano after going deaf|66|9|8225|2020-06-11|66|nwealthall1t|soblein1t@tripod.com|2011-02-08|231712
+106|Funny product review|66|3|18675|2020-02-29|66|nwealthall1t|soblein1t@tripod.com|2011-02-08|231712
+116|Grilled cheese sandwich with 7 different cheeses|66|19|3864|2013-02-21|66|nwealthall1t|soblein1t@tripod.com|2011-02-08|231712
+173|What song can you listen to every day?|66|12|45171|2019-01-30|66|nwealthall1t|soblein1t@tripod.com|2011-02-08|231712
+187|Cool easter egg found in a video game|66|4|2069|2012-11-01|66|nwealthall1t|soblein1t@tripod.com|2011-02-08|231712
+62|Billionaire donates 99 percent of his fortune to charities|68|6|23707|2016-12-09|68|etill1v|aumney1v@tripadvisor.com|2015-08-04|164934
+132|If you throw a rock into the ocean, you can be the last person to ever touch that rock until the world ends|69|10|39963|2018-12-24|69|ctills1w|bquarry1w@ft.com|2015-11-25|300895
+186|Video tutorial on SQL joins|69|8|19436|2019-09-18|69|ctills1w|bquarry1w@ft.com|2015-11-25|300895
+197|How does the internet work?|71|20|22711|2013-08-28|71|jlegerton1y|fgooderham1y@mediafire.com|2008-02-17|254381
+61|Squirrel brings seeds to my house in exchange for nuts|72|17|12270|2012-09-17|72|ctootin1z|gmcneely1z@wufoo.com|2010-01-16|265266
+105|Steampunk 1877 wins Game of the Year|72|4|35853|2019-06-09|72|ctootin1z|gmcneely1z@wufoo.com|2010-01-16|265266
+119|Dog chasing its own tail|72|3|20538|2011-11-01|72|ctootin1z|gmcneely1z@wufoo.com|2010-01-16|265266
+43|What can you learn in one day that will be useful for the rest of your life?|73|12|32988|2012-05-16|73|lvlies20|klevecque20@technorati.com|2009-06-02|259968
+51|White chocolate Brownies|73|19|14691|2017-07-30|73|lvlies20|klevecque20@technorati.com|2009-06-02|259968
+18|Study shows that most redditors don't actually read the articles they vote on|74|2|46528|2018-03-25|74|bmckinless21|aspendley21@over-blog.com|2012-06-12|206947
+128|Photoshopped my dog's face onto bees|74|3|43744|2013-02-03|74|bmckinless21|aspendley21@over-blog.com|2012-06-12|206947
+195|Today I learned 75 percent of all aluminum ever produced is still in use today, thanks to recycling|74|9|38609|2018-08-17|74|bmckinless21|aspendley21@over-blog.com|2012-06-12|206947
+14|My dog when she was born and 10 years later|76|5|48294|2013-05-13|76|rdoggett23|elindsley23@jimdo.com|2012-05-16|155382
+71|I created the world's most advanced AI which can also interpret dog language, AMA|76|11|6253|2017-10-26|76|rdoggett23|elindsley23@jimdo.com|2012-05-16|155382
+81|Hamster looks like a fluffy pancake|77|17|13500|2012-12-27|77|jotaki|nschankel24@va.gov|2011-12-20|141722
+112|Spoken languages travel at the speed of sound, but sign language travels at the speed of light|77|10|28216|2018-06-20|77|jotaki|nschankel24@va.gov|2011-12-20|141722
+127|New advances have been made in quantum computing|77|15|2601|2014-07-16|77|jotaki|nschankel24@va.gov|2011-12-20|141722
+141|Picture of my pet dog, Cookie|77|5|33490|2012-04-13|77|jotaki|nschankel24@va.gov|2011-12-20|141722
+153|Lack of sleep causes many negative health risks|77|2|46154|2019-07-29|77|jotaki|nschankel24@va.gov|2011-12-20|141722
+32|Picture of a kitten|78|17|149176|2012-03-23|78|cbearfoot25|mmutimer25@tripadvisor.com|2009-01-21|239000
+122|What book should every programmer have?|78|12|48086|2014-01-21|78|cbearfoot25|mmutimer25@tripadvisor.com|2009-01-21|239000
+137|What happens when you type "Codecademy.com" in the address bar|78|1|3678|2015-06-26|78|cbearfoot25|mmutimer25@tripadvisor.com|2009-01-21|239000
+183|Giant dog still thinks it's a tiny puppy|78|17|6056|2013-08-05|78|cbearfoot25|mmutimer25@tripadvisor.com|2009-01-21|239000
+93|Official trailer for Prevengers|79|18|29258|2019-06-17|79|amarmion26|lantonescu26@kickstarter.com|2014-09-08|292289
+192|Photo of the Earth from space at night|80|5|41910|2018-10-16|80|ishakshaft27|ahaffard27@1688.com|2017-11-14|160144
+111|Why do you feel tired if you oversleep?|81|20|35092|2015-11-12|81|mdodsworth28|mledward28@cbsnews.com|2015-04-18|209753
+121|First image of the dark side of the moon|82|13|34204|2017-07-08|82|tberceros29|vsimonsen29@com.com|2015-05-27|197499
+95|How do scientists know only 15% of all organisms have been discovered?|85|20|43395|2011-11-06|85|hscorah2c|mcaney2c@pinterest.com|2011-02-26|250286
+5|Running DOOM on a toaster|86|1|143728|2016-10-22|86|hassandri2d|sharvison2d@pagesperso-orange.fr|2010-08-26|256099
+21|REBU has made their code open source|86|1|21815|2011-09-17|86|hassandri2d|sharvison2d@pagesperso-orange.fr|2010-08-26|256099
+129|Double rainbow caught on video|86|8|41606|2019-04-27|86|hassandri2d|sharvison2d@pagesperso-orange.fr|2010-08-26|256099
+147|How do some people understand a language even if they can't speak it?|86|20|34207|2019-10-27|86|hassandri2d|sharvison2d@pagesperso-orange.fr|2010-08-26|256099
+158|Texas BBQ platter|86|19|22419|2015-12-12|86|hassandri2d|sharvison2d@pagesperso-orange.fr|2010-08-26|256099
+44|Coffee makes you hyper, but coffee shops are meant for people to relax|87|10|32886|2016-02-23|87|apershouse2e|wlangfitt2e@wikia.com|2013-03-09|279929
+126|World's largest Rube Goldberg machine|87|8|16004|2019-04-18|87|apershouse2e|wlangfitt2e@wikia.com|2013-03-09|279929
+55|Faceswapped with my pet|88|3|24528|2018-04-13|88|qdewberry2f|kcheco2f@comsenz.com|2013-08-03|220350
+1|Delivery drones are being attacked by hawks|89|15|40070|2015-10-21|89|laskin2g|mmarley2g@deviantart.com|2011-07-25|268026
+107|Boxing referee dodges punch during match|89|16|18411|2016-12-24|89|laskin2g|mmarley2g@deviantart.com|2011-07-25|268026
+110|How come we never see the other side of the moon from Earth?|89|20|11816|2014-03-21|89|laskin2g|mmarley2g@deviantart.com|2011-07-25|268026
+179|Why does 3 degree difference of body temperature feel like a huge difference?|89|20|45332|2012-05-03|89|laskin2g|mmarley2g@deviantart.com|2011-07-25|268026
+2|What is the best programming language to learn in 2020?|90|1|9746|2013-02-03|90|sciementini2h|lcrenshaw2h@issuu.com|2008-04-09|294170
+124|Wolf becomes playful when visited by rescuers who raised it|90|17|30731|2012-06-29|90|sciementini2h|lcrenshaw2h@issuu.com|2008-04-09|294170
+3|First picture of a black hole has been taken|91|2|7367|2013-11-27|91|junuuki89|nsurgeoner2i@engadget.com|2013-08-29|171038
+182|Retractable plane wings draw inspiration from beetle wings|91|15|30620|2015-04-18|91|junuuki89|nsurgeoner2i@engadget.com|2013-08-29|171038
+120|Jokester movie trailer|92|18|13234|2014-07-28|92|jmuzzollo2j|bdummer2j@npr.org|2007-03-30|162312
+26|Awesome video game cosplay|93|4|22258|2015-12-10|93|cambrozewicz2k|rspreag2k@diigo.com|2011-01-18|143843
+76|Clean water ice found just below Mars' surface|93|2|49477|2011-04-10|93|cambrozewicz2k|rspreag2k@diigo.com|2011-01-18|143843
+140|Bees observed to go completely silent during a total eclipse|93|2|39607|2012-02-17|93|cambrozewicz2k|rspreag2k@diigo.com|2011-01-18|143843
+181|We are a team of scientists working to cure cancer. Ask us anything!|93|11|31473|2013-02-21|93|cambrozewicz2k|rspreag2k@diigo.com|2011-01-18|143843
+117|Someone edited the weatherman's green tie|94|3|31177|2015-09-13|94|hcodlin2l|hbeeho2l@google.co.uk|2008-09-06|135527
+157|Arc reactor developed by billionaire|94|2|45265|2014-08-01|94|hcodlin2l|hbeeho2l@google.co.uk|2008-09-06|135527
+200|Dad didn't want a dog, but now they're inseparable|94|17|16122|2013-01-29|94|hcodlin2l|hbeeho2l@google.co.uk|2008-09-06|135527
+89|Salmon sashimi|95|19|45647|2015-03-08|95|cnoen2m|aharhoff2m@mtv.com|2006-11-13|121434
+169|I developed a fertilizer that doubles the size of crops. AMA!|95|11|37333|2016-07-21|95|cnoen2m|aharhoff2m@mtv.com|2006-11-13|121434
+77|Hi, I am John Doe, and I visited every country in the world in the last few years. Ask me anything.|96|11|23213|2015-12-05|96|esapwell2n|aeskriet2n@mediafire.com|2010-10-16|139848
+36|Why is it good to learn programming?|97|12|18346|2014-05-31|97|lbenedetti2o|kcamacke2o@noaa.gov|2013-09-01|296859
+37|What is a good hobby to pick up?|97|12|34863|2017-09-10|97|lbenedetti2o|kcamacke2o@noaa.gov|2013-09-01|296859
+45|Light cast directly over poles makes them look like a bad video game render|97|14|39546|2017-05-03|97|lbenedetti2o|kcamacke2o@noaa.gov|2013-09-01|296859
+49|Mother duck brings her babies to my house for some food|97|17|6197|2015-05-28|97|lbenedetti2o|kcamacke2o@noaa.gov|2013-09-01|296859
+100|Clearest image of the Sun taken|97|13|20928|2014-11-28|97|lbenedetti2o|kcamacke2o@noaa.gov|2013-09-01|296859
+154|Scientist creates device that turns water into food|97|6|21766|2018-09-08|97|lbenedetti2o|kcamacke2o@noaa.gov|2013-09-01|296859
+25|Paleontologists have dug up the skeleton of the ancestor of all dogs|98|2|48629|2015-01-10|98|dcarette2p|cmayling2p@ft.com|2013-10-26|209101
+46|Hen adopts puppies as her own|98|17|4369|2013-11-19|98|dcarette2p|cmayling2p@ft.com|2013-10-26|209101
+57|I am Elun Mosk, CEO/CTO of a rocket company. Ask me anything!|98|11|26376|2013-06-10|98|dcarette2p|cmayling2p@ft.com|2013-10-26|209101
+118|Good doggo likes to snuggle|98|17|10438|2017-07-21|98|dcarette2p|cmayling2p@ft.com|2013-10-26|209101
+67|I am the world's fastest competitive eater, AMA!|100|11|33270|2012-03-22|100|rbyrth2r|cmerrell2r@surveymonkey.com|2011-09-12|135349
+101|Engineer creates juggling robot|100|8|8294|2014-08-24|100|rbyrth2r|cmerrell2r@surveymonkey.com|2011-09-12|135349
+199|ePhone 20 has no screen|100|15|21022|2017-04-21|100|rbyrth2r|cmerrell2r@surveymonkey.com|2011-09-12|135349
+1|Delivery drones are being attacked by hawks|89|15|40070|2015-10-21
+1|Engineers create a mech suit capable of lifting 1 ton|72|15|35211|2020-06-21
+2|New Pokeman games Axe and Spear announced|23|4|25031|2020-05-23
+2|What is the best programming language to learn in 2020?|90|1|9746|2013-02-03
+3|First picture of a black hole has been taken|91|2|7367|2013-11-27
+3|If you could live in any fictional world, which one would it be?|4|12|37268|2020-04-11
+4|Scientists develop waterproof shoes|27|15|38476|2012-12-29
+4|Space elevator being developed|43|13|4275|2020-04-26
+5|Man creates song using only rocks as the instruments|67|7|46117|2020-07-19
+5|Running DOOM on a toaster|86|1|143728|2016-10-22
+6|As a kid, you're also watching your parents grow up|51|10|30249|2015-07-22
+6|I am a professional taste tester, ask me anything|1|11|13048|2020-01-29
+7|Created some entertaining Christmas cards|64|3|18297|2012-01-15
+7|I am a professional sand sculptor, ask me anything!|81|11|6761|2020-05-25
+8|Ambidextrous bowler hits two strikes at once in two lanes|5|16|27687|2020-05-22
+8|I am Gill Bates, founder of Macrohard. Ask me Anything.|7|11|96731|2019-04-28
+9|Brought a new cat home to my dog. Now they're best friends|69|17|4888|2020-03-04
+9|Someone reverse engineered Super Mario... with Minecraft command blocks.|17|1|9196|2015-12-21
+10|Song playlist for exercising|90|7|28711|2020-06-14
+10|What is the most exciting personal project you've worked on?|40|1|70951|2019-12-09
+11|The night before a day off is more satisfying than the actual day|15|10|25763|2014-08-06
+11|Wrote my first line of code today!|62|1|23629|2020-03-14
+12|Engineers develop laser that can destroy incoming asteroids|98|13|34973|2020-02-06
+12|Today I learned that Romans created tombs for their dogs and gave them epitaphs|64|9|34154|2020-06-16
+13|In an Asian country, bowls are repaired by filling the cracks with gold|50|14|44421|2014-01-27
+13|Photo of a solar flare|65|5|4337|2020-05-05
+14|How does gravity work?|57|20|29858|2020-02-28
+14|My dog when she was born and 10 years later|76|5|48294|2013-05-13
+15|I made a chicken pot pie|60|19|21339|2020-04-14
+15|Prevengers becomes highest grossing film of all time|3|18|25627|2019-08-31
+16|The word shark is shaped like a shark|44|10|36022|2020-04-01
+16|Today I learned Perry, a parrot, alerted its owner that their toddler was choking, saving the girl's life|54|9|31943|2016-05-26
+17|Behind the scenes of how a jump scene for Mission Possible was shot|52|18|20933|2011-05-16
+17|Trees intertwined like a double helix|92|14|48414|2020-02-27
+18|Study shows that most redditors don't actually read the articles they vote on|74|2|46528|2018-03-25
+18|Toaster has glass panel to see progress of the toast|55|14|2406|2020-03-15
+19|Sunset from space|19|5|30835|2017-08-22
+19|Why do people need water to live, but can't stay underwater for more than a few minutes?|54|20|8400|2020-02-12
+20|Movie that is shot entirely in space|47|18|35707|2020-07-10
+20|Weightlifter wins the gold|46|16|31646|2012-09-09
+21|REBU has made their code open source|86|1|21815|2011-09-17
+21|Studies show that programmers are not only fueled by caffeine|24|2|45005|2020-03-08
+22|I am a freelance Web Developer. AMA!|56|11|36051|2017-12-14
+22|Sports mascots have an epic dance off|41|3|49493|2020-03-12
+23|Movie filmed entirely in one take took 20 takes to get right|2|18|16492|2016-12-04
+23|Today I learned a snail thought to be dead woke up 4 years after being discovered|96|9|27752|2020-03-22
+24|Clouds shaped like sheep|91|5|35676|2020-06-16
+24|Funny glitch during a cutscene|33|4|28983|2010-09-24
+25|Divers find and return phone that still works 1 year after it was dropped in a river|30|6|28163|2020-06-18
+25|Paleontologists have dug up the skeleton of the ancestor of all dogs|98|2|48629|2015-01-10
+26|Awesome video game cosplay|93|4|22258|2015-12-10
+26|Man took a selfie every day for 30 years|79|8|39806|2020-03-30
+27|Another Spider-Person movie reboot in the works|66|18|13168|2020-01-29
+27|What movie can you watch everyday?|49|12|40928|2020-05-18
+28|How do you feel about pineapple on pizza?|59|12|11231|2018-05-12
+28|Today I learned bathroom vents were meant to remove moisture rather than odors|68|9|24818|2020-04-14
+29|I created a program that tells you if you'll need an umbrella|82|1|26281|2020-04-27
+29|Mysterious shadow shaped like person on moon turns out to be a smudge on the telescope lens|54|2|10452|2017-01-15
+30|Walking Simulator is so immersive!|15|4|42246|2016-10-16
+30|XStation Series 5 price announced|45|4|22325|2020-03-12
+31|Professor holds class in a VR game|47|4|571|2018-07-26
+32|Picture of a kitten|78|17|149176|2012-03-23
+33|Last Fantasy XXV is best entry in the franchise|43|4|11979|2017-05-04
+34|Rate my gaming rig|27|4|43809|2017-08-07
+35|Photo of the first supercomputer|6|5|22375|2017-04-03
+36|Why is it good to learn programming?|97|12|18346|2014-05-31
+37|What is a good hobby to pick up?|97|12|34863|2017-09-10
+38|Cat dressed as a terrifying shark|48|3|3326|2016-09-28
+39|NFL "Get Back" coach doing work|29|16|47065|2013-01-22
+40|VR Chess, but your hand grows larger every move|22|4|27706|2016-03-30
+41|What food would you eat everyday?|38|12|3386|2014-11-08
+42|Met a stranger who looks just like me at a restaurant|50|14|40567|2018-01-03
+43|What can you learn in one day that will be useful for the rest of your life?|73|12|32988|2012-05-16
+44|Coffee makes you hyper, but coffee shops are meant for people to relax|87|10|32886|2016-02-23
+45|Light cast directly over poles makes them look like a bad video game render|97|14|39546|2017-05-03
+46|Hen adopts puppies as her own|98|17|4369|2013-11-19
+47|Group of people in dinosaur costumes for Halloween|27|3|17613|2018-07-19
+48|Funny license plate number|58|3|560|2019-08-18
+49|Mother duck brings her babies to my house for some food|97|17|6197|2015-05-28
+50|Pizza where each of the 8 slices has a different topping|15|19|25884|2014-04-10
+51|White chocolate Brownies|73|19|14691|2017-07-30
+52|Greatest no-look pass in basketball history|41|16|23230|2019-02-10
+53|Today I learned some farmers switched to raising ducks instead of chickens, because they float during floods|9|9|36647|2012-11-27
+54|||||
+55|Faceswapped with my pet|88|3|24528|2018-04-13
+56|If you were stranded on an island, what 5 items would you bring with you?|18|12|22893|2017-01-26
+57|I am Elun Mosk, CEO/CTO of a rocket company. Ask me anything!|98|11|26376|2013-06-10
+58|If you could have any superpower, what would it be?|35|12|12001|2011-06-20
+59|Dog still sleeps with the teddy bear he had since he was a puppy|44|17|48059|2015-08-19
+60|Promising advances made toward cure for cancer|44|6|136532|2018-06-30
+61|Squirrel brings seeds to my house in exchange for nuts|72|17|12270|2012-09-17
+62|Billionaire donates 99 percent of his fortune to charities|68|6|23707|2016-12-09
+63|How does the sun warm us when it's so far away?|37|20|33869|2015-04-14
+64|I'm developing a game where you are a rock|52|4|27602|2014-01-12
+65|Single player offline games are valuable during an apocalypse|3|10|28714|2018-07-22
+66|Today I learned Reanu Keeves takes the subway|65|9|45080|2010-05-16
+67|I am the world's fastest competitive eater, AMA!|100|11|33270|2012-03-22
+68|Quarter Life 3 being developed by Pipe Corporation|62|4|44695|2019-06-23
+69|Even if someone could read minds, they might not be able to decode your thoughts|47|10|29192|2014-02-24
+70|Made a sweater for my pet snake|61|17|11867|2020-03-28
+71|I created the world's most advanced AI which can also interpret dog language, AMA|76|11|6253|2017-10-26
+72|Paintings are like trading cards for rich people|53|10|25405|2015-02-27
+73|Codecademy releases their new database courses|3|1|133728|2012-04-28
+74|Today I learned apes can learn sign language, but aren't able to ask questions|42|9|21744|2017-05-03
+75|Growing up you get more joy seeing others open presents than you do opening your own|51|10|18164|2012-01-20
+76|Clean water ice found just below Mars' surface|93|2|49477|2011-04-10
+77|Hi, I am John Doe, and I visited every country in the world in the last few years. Ask me anything.|96|11|23213|2015-12-05
+78|Low-cost laptops developed for students in several poorer countries|65|15|4264|2017-08-09
+79|||||
+80|I am a self taught developer who likes to teach others programming. Ask me anything!|5|11|44283|2016-07-16
+81|Hamster looks like a fluffy pancake|77|17|13500|2012-12-27
+82|Why do bad scents linger longer than good scents?|23|20|2487|2018-09-01
+83|Computer uses data of best selling songs to try to create the most popular song|12|7|29600|2013-05-12
+84|Youtubers help to fund planting of 10 million trees|21|6|28046|2016-02-01
+85|Award winning actor raises $200 million to fight climate change|54|6|6832|2013-11-24
+86|SQLite tutorial videos|56|8|29608|2017-04-03
+87|||||
+88|Why it's okay to have imposter syndrome|55|1|22396|2013-05-12
+89|Salmon sashimi|95|19|45647|2015-03-08
+90|Parked my car between two identical cars|10|14|29164|2015-10-04
+91|Fried chicken sandwich|65|19|30406|2015-08-12
+92|I am the world's most average person. Ask me anything.|56|11|9792|2012-05-25
+93|Official trailer for Prevengers|79|18|29258|2019-06-17
+94|Why are house roofs slanted?|42|20|42425|2017-10-29
+95|How do scientists know only 15% of all organisms have been discovered?|85|20|43395|2011-11-06
+96|Finished building my own telescope|49|13|2455|2020-01-09
+97|More companies adopt 4 day work week|66|6|5791|2012-01-02
+98|Dog comforts its nervous friend at the vet|28|17|33556|2011-01-30
+99|Today I learned Kogu from Dragoon Ball Z is an ambassador for the 2020 Tokyo Olympics|31|9|25586|2020-01-28
+100|Clearest image of the Sun taken|97|13|20928|2014-11-28
+101|Engineer creates juggling robot|100|8|8294|2014-08-24
+102|Movie theater chairs created which release scents for a more immersive experience|18|15|6998|2016-08-03
+103|SpaceZ has a successful launch for its Eagle Light rocket!|65|13|28023|2016-02-15
+104|Today I learned Beethoven used bone conduction to hear his piano after going deaf|66|9|8225|2020-06-11
+105|Steampunk 1877 wins Game of the Year|72|4|35853|2019-06-09
+106|Funny product review|66|3|18675|2020-02-29
+107|Boxing referee dodges punch during match|89|16|18411|2016-12-24
+108|My largest Minecraft map using 3000x3000 blocks. Took 12 months to complete.|48|4|28384|2019-04-02
+109|History of programming|33|8|5792|2011-04-02
+110|How come we never see the other side of the moon from Earth?|89|20|11816|2014-03-21
+111|Why do you feel tired if you oversleep?|81|20|35092|2015-11-12
+112|Spoken languages travel at the speed of sound, but sign language travels at the speed of light|77|10|28216|2018-06-20
+113|Playlist for programmers|35|7|49129|2010-04-02
+114|Today I learned a bullet train system is equipped with a network of seismometers which has prevented trains from derailing|44|9|45529|2010-03-05
+115|Rapper Skittles is the first and only artist to have 10 consecutive albums that were number 1|84|7|16114|2014-06-12
+116|Grilled cheese sandwich with 7 different cheeses|66|19|3864|2013-02-21
+117|Someone edited the weatherman's green tie|94|3|31177|2015-09-13
+118|Good doggo likes to snuggle|98|17|10438|2017-07-21
+119|Dog chasing its own tail|72|3|20538|2011-11-01
+120|Jokester movie trailer|92|18|13234|2014-07-28
+121|First image of the dark side of the moon|82|13|34204|2017-07-08
+122|What book should every programmer have?|78|12|48086|2014-01-21
+123|I edited myself into a movie scene|2|3|43894|2015-03-01
+124|Wolf becomes playful when visited by rescuers who raised it|90|17|30731|2012-06-29
+125|Incredible soccer goal|20|16|17592|2010-08-18
+126|World's largest Rube Goldberg machine|87|8|16004|2019-04-18
+127|New advances have been made in quantum computing|77|15|2601|2014-07-16
+128|Photoshopped my dog's face onto bees|74|3|43744|2013-02-03
+129|Double rainbow caught on video|86|8|41606|2019-04-27
+130|It's perfectly okay to only code at work|50|1|11076|2011-03-20
+131|Today I learned a perfectly preserved dinosaur tail was found, which was full of feathers|46|9|17114|2016-12-18
+132|If you throw a rock into the ocean, you can be the last person to ever touch that rock until the world ends|69|10|39963|2018-12-24
+133|Basketball player hits full court shot|41|16|4571|2015-04-18
+134|||||
+135|Things I wish I knew when I was starting out as a web developer|8|1|2915|2018-07-23
+136|Doggo tippy taps when owner comes home|41|8|36695|2014-09-21
+137|What happens when you type "Codecademy.com" in the address bar|78|1|3678|2015-06-26
+138|Golf balls at this mini golf course over the ocean are biodegradable and edible by fish|36|14|33651|2019-11-18
+139|My coworker's last name is Null|38|1|27696|2012-12-17
+140|Bees observed to go completely silent during a total eclipse|93|2|39607|2012-02-17
+141|Picture of my pet dog, Cookie|77|5|33490|2012-04-13
+142|Spicy miso ramen with pork|8|19|43655|2010-07-31
+143|Hockey player gives game winning hockey stick to fan|53|16|7408|2014-07-31
+144|Kid is gifted a new puppy for his birthday|20|17|22235|2011-09-27
+145|Your alarm tone is your opening theme song for each episode|38|10|22608|2017-05-10
+146|Colorized photo of my great-great-grandparents|36|5|2763|2020-06-03
+147|How do some people understand a language even if they can't speak it?|86|20|34207|2019-10-27
+148|Panoramic picture of the Grand Canyon|49|5|45984|2017-02-14
+149|Days where everything goes smoothly are less memorable|16|10|43496|2013-04-04
+150|Made ice cream that looks like spaghetti using vanilla ice cream and raspberry sauce|35|19|24826|2012-03-11
+151|How do taxes work?|20|20|17917|2018-07-28
+152|VR technology lets you program on a virtual computer, without having a real computer|6|15|17001|2019-10-26
+153|Lack of sleep causes many negative health risks|77|2|46154|2019-07-29
+154|Scientist creates device that turns water into food|97|6|21766|2018-09-08
+155|||||
+156|Codecademy programming tutorial videos|5|8|85347|2013-11-06
+157|Arc reactor developed by billionaire|94|2|45265|2014-08-01
+158|Texas BBQ platter|86|19|22419|2015-12-12
+159|Photo of rocket launching|20|13|33951|2013-12-24
+160|Dubstep music can protect against bug bites|30|2|12344|2013-03-25
+161|Cheeseburger with curly fries|57|19|12929|2013-11-15
+162|Rechargeable battery that charges to 100% in 10 minutes|25|15|22460|2014-08-31
+163|Honeydew melon ice cream|8|19|34530|2018-12-08
+164|There's another ball inside this bowling ball|63|14|660|2015-03-08
+165|Dog photobombs wedding photo|20|5|10303|2013-10-31
+166|What is the best purchase you ever made?|45|12|4727|2017-08-27
+167|||||
+168|Today I learned there is a statue of George Washington in London|53|9|33642|2015-01-22
+169|I developed a fertilizer that doubles the size of crops. AMA!|95|11|37333|2016-07-21
+170|Hockey goalie makes incredible behind the back block|22|16|32072|2015-02-27
+171|Golfer hits hole-in-one where the ball skims over water|47|16|24447|2014-10-10
+172|AI recreates 3D models from paintings|54|15|13585|2014-02-25
+173|What song can you listen to every day?|66|12|45171|2019-01-30
+174|Astronauts watching Star Trek in space|33|13|25841|2015-05-08
+175|How does wifi work?|58|20|19818|2019-10-31
+176|Tech CEO donates computers to schools|27|6|21937|2016-01-18
+177|How do NASA engineers communicate with space satellites billions of kilometers away from Earth?|27|20|31570|2019-01-29
+178|Today I learned the inventor of the electronic television was disappointed in his invention, until he watched Neil Armstrong walking on the moon through it|1|9|4613|2016-04-16
+179|Why does 3 degree difference of body temperature feel like a huge difference?|89|20|45332|2012-05-03
+180|Dog always waits for the mailman to make his delivery|44|17|29064|2018-06-02
+181|We are a team of scientists working to cure cancer. Ask us anything!|93|11|31473|2013-02-21
+182|Retractable plane wings draw inspiration from beetle wings|91|15|30620|2015-04-18
+183|Giant dog still thinks it's a tiny puppy|78|17|6056|2013-08-05
+184|Puppy falling asleep after playing outside all day|19|17|44269|2013-03-28
+185|Car that automatically parallel parks|33|15|34407|2013-06-10
+186|Video tutorial on SQL joins|69|8|19436|2019-09-18
+187|Cool easter egg found in a video game|66|4|2069|2012-11-01
+188|How does a computer compile and run a program?|6|20|24877|2017-08-03
+189|What kind of bear is best?|33|12|10408|2010-08-29
+190|New fertilizer created that doubles size of crops|46|2|47844|2015-05-30
+191|Fertilizer from 2015 linked to causing insects to grow abnormally large|16|2|29720|2020-03-24
+192|Photo of the Earth from space at night|80|5|41910|2018-10-16
+193|Self-driving flying electric cars in mass production|62|6|43035|2020-01-14
+194|Meteor shower lighting up the night sky|20|13|31616|2017-08-02
+195|Today I learned 75 percent of all aluminum ever produced is still in use today, thanks to recycling|74|9|38609|2018-08-17
+196|How do databases store millions of entries and access them so quickly?|50|20|45790|2012-02-04
+197|How does the internet work?|71|20|22711|2013-08-28
+198|New vehicle can convert food waste into fuel|38|15|42890|2013-06-22
+199|ePhone 20 has no screen|100|15|21022|2017-04-21
+200|Dad didn't want a dog, but now they're inseparable|94|17|16122|2013-01-29
+aww|Picture of a kitten|149176
+programming|Running DOOM on a toaster|143728
+news|Promising advances made toward cure for cancer|136532
+programming|Codecademy releases their new database courses|133728
+IAmA|I am Gill Bates, founder of Macrohard. Ask me Anything.|96731
+videos|Codecademy programming tutorial videos|85347
+programming|What is the most exciting personal project you've worked on?|70951
+science|Clean water ice found just below Mars' surface|49477
+Music|Playlist for programmers|49129
+science|Paleontologists have dug up the skeleton of the ancestor of all dogs|48629
+pics|My dog when she was born and 10 years later|48294
+AskReddit|What book should every programmer have?|48086
+aww|Dog still sleeps with the teddy bear he had since he was a puppy|48059
+science|New fertilizer created that doubles size of crops|47844
+sports|NFL "Get Back" coach doing work|47065
+science|Study shows that most redditors don't actually read the articles they vote on|46528
+science|Lack of sleep causes many negative health risks|46154
+pics|Panoramic picture of the Grand Canyon|45984
+explainlikeimfive|How do databases store millions of entries and access them so quickly?|45790
+food|Salmon sashimi|45647
+todayilearned|Today I learned a bullet train system is equipped with a network of seismometers which has prevented trains from derailing|45529
+explainlikeimfive|Why does 3 degree difference of body temperature feel like a huge difference?|45332
+science|Arc reactor developed by billionaire|45265
+AskReddit|What song can you listen to every day?|45171
+todayilearned|Today I learned Reanu Keeves takes the subway|45080
+gaming|Quarter Life 3 being developed by Pipe Corporation|44695
+mildlyinteresting|In an Asian country, bowls are repaired by filling the cracks with gold|44421
+IAmA|I am a self taught developer who likes to teach others programming. Ask me anything!|44283
+aww|Puppy falling asleep after playing outside all day|44269
+funny|I edited myself into a movie scene|43894
+gaming|Rate my gaming rig|43809
+funny|Photoshopped my dog's face onto bees|43744
+food|Spicy miso ramen with pork|43655
+showerthoughts|Days where everything goes smoothly are less memorable|43496
+explainlikeimfive|How do scientists know only 15% of all organisms have been discovered?|43395
+news|Self-driving flying electric cars in mass production|43035
+technology|New vehicle can convert food waste into fuel|42890
+explainlikeimfive|Why are house roofs slanted?|42425
+gaming|Walking Simulator is so immersive!|42246
+pics|Photo of the Earth from space at night|41910
+videos|Double rainbow caught on video|41606
+mildlyinteresting|Met a stranger who looks just like me at a restaurant|40567
+technology|Delivery drones are being attacked by hawks|40070
+showerthoughts|If you throw a rock into the ocean, you can be the last person to ever touch that rock until the world ends|39963
+science|Bees observed to go completely silent during a total eclipse|39607
+mildlyinteresting|Light cast directly over poles makes them look like a bad video game render|39546
+todayilearned|Today I learned 75 percent of all aluminum ever produced is still in use today, thanks to recycling|38609
+technology|Scientists develop waterproof shoes|38476
+IAmA|I developed a fertilizer that doubles the size of crops. AMA!|37333
+videos|Doggo tippy taps when owner comes home|36695
+todayilearned|Today I learned some farmers switched to raising ducks instead of chickens, because they float during floods|36647
+IAmA|I am a freelance Web Developer. AMA!|36051
+gaming|Steampunk 1877 wins Game of the Year|35853
+explainlikeimfive|Why do you feel tired if you oversleep?|35092
+AskReddit|What is a good hobby to pick up?|34863
+food|Honeydew melon ice cream|34530
+technology|Car that automatically parallel parks|34407
+explainlikeimfive|How do some people understand a language even if they can't speak it?|34207
+space|First image of the dark side of the moon|34204
+todayilearned|Today I learned that Romans created tombs for their dogs and gave them epitaphs|34154
+space|Photo of rocket launching|33951
+explainlikeimfive|How does the sun warm us when it's so far away?|33869
+mildlyinteresting|Golf balls at this mini golf course over the ocean are biodegradable and edible by fish|33651
+todayilearned|Today I learned there is a statue of George Washington in London|33642
+aww|Dog comforts its nervous friend at the vet|33556
+pics|Picture of my pet dog, Cookie|33490
+IAmA|I am the world's fastest competitive eater, AMA!|33270
+AskReddit|What can you learn in one day that will be useful for the rest of your life?|32988
+showerthoughts|Coffee makes you hyper, but coffee shops are meant for people to relax|32886
+sports|Hockey goalie makes incredible behind the back block|32072
+todayilearned|Today I learned Perry, a parrot, alerted its owner that their toddler was choking, saving the girl's life|31943
+sports|Weightlifter wins the gold|31646
+space|Meteor shower lighting up the night sky|31616
+explainlikeimfive|How do NASA engineers communicate with space satellites billions of kilometers away from Earth?|31570
+IAmA|We are a team of scientists working to cure cancer. Ask us anything!|31473
+funny|Someone edited the weatherman's green tie|31177
+pics|Sunset from space|30835
+aww|Wolf becomes playful when visited by rescuers who raised it|30731
+technology|Retractable plane wings draw inspiration from beetle wings|30620
+food|Fried chicken sandwich|30406
+showerthoughts|As a kid, you're also watching your parents grow up|30249
+science|Fertilizer from 2015 linked to causing insects to grow abnormally large|29720
+videos|SQLite tutorial videos|29608
+Music|Computer uses data of best selling songs to try to create the most popular song|29600
+movies|Official trailer for Prevengers|29258
+showerthoughts|Even if someone could read minds, they might not be able to decode your thoughts|29192
+mildlyinteresting|Parked my car between two identical cars|29164
+aww|Dog always waits for the mailman to make his delivery|29064
+gaming|Funny glitch during a cutscene|28983
+showerthoughts|Single player offline games are valuable during an apocalypse|28714
+gaming|My largest Minecraft map using 3000x3000 blocks. Took 12 months to complete.|28384
+showerthoughts|Spoken languages travel at the speed of sound, but sign language travels at the speed of light|28216
+news|Youtubers help to fund planting of 10 million trees|28046
+space|SpaceZ has a successful launch for its Eagle Light rocket!|28023
+gaming|VR Chess, but your hand grows larger every move|27706
+programming|My coworker's last name is Null|27696
+gaming|I'm developing a game where you are a rock|27602
+IAmA|I am Elun Mosk, CEO/CTO of a rocket company. Ask me anything!|26376
+food|Pizza where each of the 8 slices has a different topping|25884
+space|Astronauts watching Star Trek in space|25841
+showerthoughts|The night before a day off is more satisfying than the actual day|25763
+movies|Prevengers becomes highest grossing film of all time|25627
+todayilearned|Today I learned Kogu from Dragoon Ball Z is an ambassador for the 2020 Tokyo Olympics|25586
+showerthoughts|Paintings are like trading cards for rich people|25405
+explainlikeimfive|How does a computer compile and run a program?|24877
+food|Made ice cream that looks like spaghetti using vanilla ice cream and raspberry sauce|24826
+funny|Faceswapped with my pet|24528
+sports|Golfer hits hole-in-one where the ball skims over water|24447
+news|Billionaire donates 99 percent of his fortune to charities|23707
+sports|Greatest no-look pass in basketball history|23230
+IAmA|Hi, I am John Doe, and I visited every country in the world in the last few years. Ask me anything.|23213
+AskReddit|If you were stranded on an island, what 5 items would you bring with you?|22893
+explainlikeimfive|How does the internet work?|22711
+showerthoughts|Your alarm tone is your opening theme song for each episode|22608
+technology|Rechargeable battery that charges to 100% in 10 minutes|22460
+food|Texas BBQ platter|22419
+programming|Why it's okay to have imposter syndrome|22396
+pics|Photo of the first supercomputer|22375
+gaming|Awesome video game cosplay|22258
+aww|Kid is gifted a new puppy for his birthday|22235
+news|Tech CEO donates computers to schools|21937
+programming|REBU has made their code open source|21815
+news|Scientist creates device that turns water into food|21766
+todayilearned|Today I learned apes can learn sign language, but aren't able to ask questions|21744
+technology|ePhone 20 has no screen|21022
+movies|Behind the scenes of how a jump scene for Mission Possible was shot|20933
+space|Clearest image of the Sun taken|20928
+funny|Dog chasing its own tail|20538
+explainlikeimfive|How does wifi work?|19818
+videos|Video tutorial on SQL joins|19436
+funny|Funny product review|18675
+sports|Boxing referee dodges punch during match|18411
+AskReddit|Why is it good to learn programming?|18346
+funny|Created some entertaining Christmas cards|18297
+showerthoughts|Growing up you get more joy seeing others open presents than you do opening your own|18164
+explainlikeimfive|How do taxes work?|17917
+funny|Group of people in dinosaur costumes for Halloween|17613
+sports|Incredible soccer goal|17592
+todayilearned|Today I learned a perfectly preserved dinosaur tail was found, which was full of feathers|17114
+technology|VR technology lets you program on a virtual computer, without having a real computer|17001
+movies|Movie filmed entirely in one take took 20 takes to get right|16492
+aww|Dad didn't want a dog, but now they're inseparable|16122
+Music|Rapper Skittles is the first and only artist to have 10 consecutive albums that were number 1|16114
+videos|World's largest Rube Goldberg machine|16004
+food|White chocolate Brownies|14691
+technology|AI recreates 3D models from paintings|13585
+aww|Hamster looks like a fluffy pancake|13500
+movies|Jokester movie trailer|13234
+movies|Another Spider-Person movie reboot in the works|13168
+food|Cheeseburger with curly fries|12929
+science|Dubstep music can protect against bug bites|12344
+aww|Squirrel brings seeds to my house in exchange for nuts|12270
+AskReddit|If you could have any superpower, what would it be?|12001
+gaming|Last Fantasy XXV is best entry in the franchise|11979
+aww|Made a sweater for my pet snake|11867
+explainlikeimfive|How come we never see the other side of the moon from Earth?|11816
+AskReddit|How do you feel about pineapple on pizza?|11231
+programming|It's perfectly okay to only code at work|11076
+science|Mysterious shadow shaped like person on moon turns out to be a smudge on the telescope lens|10452
+aww|Good doggo likes to snuggle|10438
+AskReddit|What kind of bear is best?|10408
+pics|Dog photobombs wedding photo|10303
+IAmA|I am the world's most average person. Ask me anything.|9792
+programming|What is the best programming language to learn in 2020?|9746
+programming|Someone reverse engineered Super Mario... with Minecraft command blocks.|9196
+videos|Engineer creates juggling robot|8294
+todayilearned|Today I learned Beethoven used bone conduction to hear his piano after going deaf|8225
+sports|Hockey player gives game winning hockey stick to fan|7408
+science|First picture of a black hole has been taken|7367
+technology|Movie theater chairs created which release scents for a more immersive experience|6998
+news|Award winning actor raises $200 million to fight climate change|6832
+IAmA|I created the world's most advanced AI which can also interpret dog language, AMA|6253
+aww|Mother duck brings her babies to my house for some food|6197
+aww|Giant dog still thinks it's a tiny puppy|6056
+videos|History of programming|5792
+news|More companies adopt 4 day work week|5791
+41538.64|What is the best programming language to learn in 2020?|programming
+35955.75|Promising advances made toward cure for cancer|news
+34853.36|First picture of a black hole has been taken|science
+34477.5|I am Gill Bates, founder of Macrohard. Ask me Anything.|IAmA
+31614.33|Computer uses data of best selling songs to try to create the most popular song|Music
+31334.83|In an Asian country, bowls are repaired by filling the cracks with gold|mildlyinteresting
+30347.75|SQLite tutorial videos|videos
+29514.18|As a kid, you're also watching your parents grow up|showerthoughts
+29494.25|My dog when she was born and 10 years later|pics
+29379.0|How does the sun warm us when it's so far away?|explainlikeimfive
+29193.93|Picture of a kitten|aww
+28573.83|Today I learned that Romans created tombs for their dogs and gave them epitaphs|todayilearned
+26346.25|Funny glitch during a cutscene|gaming
+25885.1|Pizza where each of the 8 slices has a different topping|food
+25288.29|Finished building my own telescope|space
+22938.0|Weightlifter wins the gold|sports
+22866.17|Delivery drones are being attacked by hawks|technology
+22235.2|Created some entertaining Christmas cards|funny
+22190.91|How do you feel about pineapple on pizza?|AskReddit
+19785.33|Prevengers becomes highest grossing film of all time|movies
