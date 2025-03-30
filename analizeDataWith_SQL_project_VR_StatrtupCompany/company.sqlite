@@ -6,16 +6,16 @@ WHERE current_project IS NULL;
 */
 /*----------------------------------------*/
 /*Query: What are the names of projects that were not chosen by any employees?*/
-/*SELECT project_name
+SELECT project_name
 FROM projects
 WHERE project_id NOT IN(
   SELECT current_project
   FROM employees
   WHERE current_project IS NOT NULL
-);*/
+);
 /*----------------------------------------*/
 /*Query: What is the name of the project chosen by the most employees?*/
-/*
+
 SELECT project_name
 FROM projects
 LEFT JOIN employees
@@ -23,11 +23,11 @@ ON projects.project_id = employees.current_project
 WHERE employees.current_project  IS NOT NULL
 GROUP BY employees.current_project
 ORDER BY COUNT(employee_id) DESC
-LIMIT 1;*/
+LIMIT 1;
 /*FistsOfFury*/
 /*----------------------------------------*/
 /*Query: Which projects were chosen by multiple employees?*/
-/*
+
 SELECT project_name, COUNT(employee_id)
 FROM projects
 LEFT JOIN employees
@@ -35,16 +35,16 @@ ON projects.project_id = employees.current_project
 WHERE employees.current_project  IS NOT NULL
 GROUP BY employees.current_project
 HAVING COUNT(employee_id) > 1;
-*/
+
 /*RocketRush; ExtremeJets; FistsOfFury*/
-/*
+
 SELECT COUNT(*)
 FROM employees
 WHERE position IS 'Developer' AND current_project IS NOT NULL;
 
 SELECT COUNT(*)
 FROM projects;
-
+/*
 SELECT (COUNT(*) * 2) - (
   SELECT COUNT(*)
   FROM employees
