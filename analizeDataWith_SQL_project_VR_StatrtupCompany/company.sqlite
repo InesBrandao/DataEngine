@@ -1,0 +1,77 @@
+/*Query: what are the names of employees who have not chosen a project?*/
+/*
+SELECT employee_id, first_name, last_name, position
+FROM employees
+WHERE current_project IS NULL;
+*/
+/*----------------------------------------*/
+/*Query: What are the names of projects that were not chosen by any employees?*/
+/*SELECT project_name
+FROM projects
+WHERE project_id NOT IN(
+  SELECT current_project
+  FROM employees
+  WHERE current_project IS NOT NULL
+);*/
+/*----------------------------------------*/
+/*Query: What is the name of the project chosen by the most employees?*/
+/*
+SELECT project_name
+FROM projects
+LEFT JOIN employees
+ON projects.project_id = employees.current_project
+WHERE employees.current_project  IS NOT NULL
+GROUP BY employees.current_project
+ORDER BY COUNT(employee_id) DESC
+LIMIT 1;*/
+/*FistsOfFury*/
+/*----------------------------------------*/
+/*Query: Which projects were chosen by multiple employees?*/
+/*
+SELECT project_name, COUNT(employee_id)
+FROM projects
+LEFT JOIN employees
+ON projects.project_id = employees.current_project
+WHERE employees.current_project  IS NOT NULL
+GROUP BY employees.current_project
+HAVING COUNT(employee_id) > 1;
+*/
+/*RocketRush; ExtremeJets; FistsOfFury*/
+/*
+SELECT COUNT(*)
+FROM employees
+WHERE position IS 'Developer' AND current_project IS NOT NULL;
+
+SELECT COUNT(*)
+FROM projects;
+
+SELECT (COUNT(*) * 2) - (
+  SELECT COUNT(*)
+  FROM employees
+  WHERE current_project IS NOT NULL
+    AND position = 'Developer') AS 'Count'
+FROM projects;
+*/
+/*There are 3 developers for assigned projects in total; there are 10 projects in total. If each projects needs at least 2 developers, then 2*10 - 3 = 17 and it means we are understaffed equal to 17 employee developers.*/
+
+SELECT personality, COUNT(*)
+FROM employees
+GROUP BY personality
+ORDER BY 2 DESC
+LIMIT 1;
+
+/*ENFJ is the most common personality among the employees*/
+
+SELECT project_name
+FROM projects
+LEFT JOIN employees
+ON projects.project_id = employees.current_project
+WHERE personality IS 'ENFJ';
+
+/*The name of the projects chosen by employees with the most common personality type are: AlienInvasion, RocketRush and BravoBoxing.*/
+
+/*------------------------------------------------*/
+
+
+
+
