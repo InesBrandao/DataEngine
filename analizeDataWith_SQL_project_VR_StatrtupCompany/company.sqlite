@@ -71,6 +71,131 @@ WHERE personality IS 'ENFJ';
 /*The name of the projects chosen by employees with the most common personality type are: AlienInvasion, RocketRush and BravoBoxing.*/
 
 /*------------------------------------------------*/
+/*Query: find the personality type (PT) most represented by employees with a selected project*/
+
+/*query to find out what the most represented PT is*/
+/*SELECT personality
+FROM employees
+WHERE current_project IS NOT NULL
+GROUP BY personality
+ORDER BY COUNT(personality) DESC
+LIMIT 1*/
+
+SELECT first_name, personality, project_name
+FROM employees
+INNER JOIN projects
+ON employees.current_project = projects.project_id
+WHERE personality = (
+  SELECT personality
+  FROM employees
+  WHERE current_project IS NOT NULL
+  GROUP BY personality
+  ORDER BY COUNT(personality) DESC
+  LIMIT 1);
+
+
+/*--------------------------------------------------*/
+
+/*Query: For each employee, display the first_name, personality, the name of any projects they´ve chosen and the number of incompatible workers according with the table bellow:
+-----------------------------------------------------------------
+Personality Type | ... is incompatible with
+-----------------------------------------------------------------
+INFP             | ISFP, ESFP, ISTP, ESTP, ISFJ, ESFJ,ISTJ, ESTJ
+_________________________________________________________________
+ENFP             | ISFP, ESFP, ISTP, ESTP, ISFJ, ESFJ, ISTJ, ESTJ
+_________________________________________________________________
+INFJ             | ISFP, ESFP, ISTP, ESTP, ISFJ, ESFJ, ISTJ, ESTJ
+_________________________________________________________________
+ENFJ             | ESFP, ISTP, ESTP, ISFJ, ESFJ, ISTJ, ESTJ
+_________________________________________________________________
+ISFP             | INFP, ENFP, INFJ
+_________________________________________________________________
+ESFP             | INFP, ENFP, INFJ, ENFJ
+_________________________________________________________________
+ISTP             | INFP, ENFP, INFJ, ENFJ
+_________________________________________________________________
+ESTP             | INFP, ENFP, INFJ, ENFJ
+_________________________________________________________________
+ISFJ             | INFP, ENFP, INFJ, ENFJ
+_________________________________________________________________
+ESFJ             | INFP, ENFP, INFJ, ENFJ
+_________________________________________________________________
+ISTJ             | INFP, ENFP, INFJ, ENFJ
+_________________________________________________________________
+ESTJ             | INFP, ENFP, INFJ, ENFJ
+-----------------------------------------------------------------
+*/
+
+/*query that finds for each employee their current project name;query: now find the number of incompatible co-workers*/
+SELECT first_name, last_name, personality, project_name,
+CASE
+  WHEN personality = 'INFP'
+  THEN (
+    SELECT COUNT(*) 
+    FROM employees
+    WHERE personality IN ('ISFP', 'ESFP', 'ISTP', 'ESTP', 'ISFJ', 'ESFJ', 'ISTJ', 'ESTJ'))
+  WHEN personality = 'ENFP'
+  THEN (
+    SELECT COUNT(*) 
+    FROM employees
+    WHERE personality IN ('ISFP', 'ESFP', 'ISTP', 'ESTP', 'ISFJ', 'ESFJ', 'ISTJ', 'ESTJ')) 
+  WHEN personality = 'INFJ'
+  THEN (
+    SELECT COUNT(*) 
+    FROM employees
+    WHERE personality IN ('ISFP', 'ESFP', 'ISTP', 'ESTP', 'ISFJ', 'ESFJ', 'ISTJ', 'ESTJ'))
+  WHEN personality = 'ENFJ'
+  THEN (
+    SELECT COUNT(*) 
+    FROM employees
+    WHERE personality IN ('ESFP', 'ISTP', 'ESTP', 'ISFJ', 'ESFJ', 'ISTJ', 'ESTJ'))
+  WHEN personality = 'ISFP'
+  THEN (
+    SELECT COUNT(*) 
+    FROM employees
+    WHERE personality IN ('INFP', 'ENFP', 'INFJ'))
+  WHEN personality = 'ESFP'
+  THEN (
+    SELECT COUNT(*) 
+    FROM employees
+    WHERE personality IN ('INFP', 'ENFP', 'INFJ', 'ENFJ'))
+  WHEN personality = 'ISTP'
+  THEN (
+    SELECT COUNT(*) 
+    FROM employees
+    WHERE personality IN ('INFP', 'ENFP', 'INFJ', 'ENFJ'))
+  WHEN personality = 'ESTP'
+  THEN (
+    SELECT COUNT(*) 
+    FROM employees
+    WHERE personality IN ('INFP', 'ENFP', 'INFJ', 'ENFJ'))
+  WHEN personality = 'ISFJ'
+  THEN (
+    SELECT COUNT(*) 
+    FROM employees
+    WHERE personality IN ('INFP', 'ENFP', 'INFJ', 'ENFJ'))
+  WHEN personality = 'ESFJ'
+  THEN (
+    SELECT COUNT(*) 
+    FROM employees
+    WHERE personality IN ('INFP', 'ENFP', 'INFJ', 'ENFJ'))
+  WHEN personality = 'ISTJ'
+  THEN (
+    SELECT COUNT(*) 
+    FROM employees
+    WHERE personality IN ('INFP', 'ENFP', 'INFJ', 'ENFJ'))
+  WHEN personality = 'ESTJ'
+  THEN (
+    SELECT COUNT(*) 
+    FROM employees
+    WHERE personality IN ('INFP', 'ENFP', 'INFJ', 'ENFJ'))
+  ELSE 0
+END AS '# of incompatible coworkers'
+FROM employees
+LEFT JOIN projects
+ON employees.current_project = projects.project_id
+WHERE current_project IS NOT NULL;
+
 
 
 
